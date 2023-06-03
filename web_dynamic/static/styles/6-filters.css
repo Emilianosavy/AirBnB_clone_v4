@@ -82,7 +82,6 @@ button:hover {
 .amenities h4 {
     white-space: nowrap;
     max-width: 200px;
-    overflow: hidden;
     text-overflow: ellipsis;
 }
 
