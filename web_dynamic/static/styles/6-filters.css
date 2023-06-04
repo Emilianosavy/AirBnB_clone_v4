@@ -79,13 +79,15 @@ button:hover {
     margin: 0px;
 }
 
-.amenities h4 {
+.filters h4 {
     white-space: nowrap;
     max-width: 200px;
+    height: 15px;
+    overflow: hidden;
     text-overflow: ellipsis;
 }
 
-.amenities input {
+.filters input {
     display: inline-block;
     margin-left: 10px;
 }
